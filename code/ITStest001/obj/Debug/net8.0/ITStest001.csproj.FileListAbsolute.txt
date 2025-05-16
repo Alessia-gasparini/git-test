@@ -1,0 +1,14 @@
+C:\code\ITStest001\bin\Debug\net8.0\ITStest001.exe
+C:\code\ITStest001\bin\Debug\net8.0\ITStest001.deps.json
+C:\code\ITStest001\bin\Debug\net8.0\ITStest001.runtimeconfig.json
+C:\code\ITStest001\bin\Debug\net8.0\ITStest001.dll
+C:\code\ITStest001\bin\Debug\net8.0\ITStest001.pdb
+C:\code\ITStest001\obj\Debug\net8.0\ITStest001.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\ITStest001\obj\Debug\net8.0\ITStest001.AssemblyInfoInputs.cache
+C:\code\ITStest001\obj\Debug\net8.0\ITStest001.AssemblyInfo.cs
+C:\code\ITStest001\obj\Debug\net8.0\ITStest001.csproj.CoreCompileInputs.cache
+C:\code\ITStest001\obj\Debug\net8.0\ITStest001.dll
+C:\code\ITStest001\obj\Debug\net8.0\refint\ITStest001.dll
+C:\code\ITStest001\obj\Debug\net8.0\ITStest001.pdb
+C:\code\ITStest001\obj\Debug\net8.0\ITStest001.genruntimeconfig.cache
+C:\code\ITStest001\obj\Debug\net8.0\ref\ITStest001.dll

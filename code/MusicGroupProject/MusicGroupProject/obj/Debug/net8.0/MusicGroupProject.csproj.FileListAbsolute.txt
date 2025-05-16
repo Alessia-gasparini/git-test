@@ -1,0 +1,14 @@
+C:\code\MusicGroupProject\MusicGroupProject\bin\Debug\net8.0\MusicGroupProject.exe
+C:\code\MusicGroupProject\MusicGroupProject\bin\Debug\net8.0\MusicGroupProject.deps.json
+C:\code\MusicGroupProject\MusicGroupProject\bin\Debug\net8.0\MusicGroupProject.runtimeconfig.json
+C:\code\MusicGroupProject\MusicGroupProject\bin\Debug\net8.0\MusicGroupProject.dll
+C:\code\MusicGroupProject\MusicGroupProject\bin\Debug\net8.0\MusicGroupProject.pdb
+C:\code\MusicGroupProject\MusicGroupProject\obj\Debug\net8.0\MusicGroupProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\MusicGroupProject\MusicGroupProject\obj\Debug\net8.0\MusicGroupProject.AssemblyInfoInputs.cache
+C:\code\MusicGroupProject\MusicGroupProject\obj\Debug\net8.0\MusicGroupProject.AssemblyInfo.cs
+C:\code\MusicGroupProject\MusicGroupProject\obj\Debug\net8.0\MusicGroupProject.csproj.CoreCompileInputs.cache
+C:\code\MusicGroupProject\MusicGroupProject\obj\Debug\net8.0\MusicGroupProject.dll
+C:\code\MusicGroupProject\MusicGroupProject\obj\Debug\net8.0\refint\MusicGroupProject.dll
+C:\code\MusicGroupProject\MusicGroupProject\obj\Debug\net8.0\MusicGroupProject.pdb
+C:\code\MusicGroupProject\MusicGroupProject\obj\Debug\net8.0\MusicGroupProject.genruntimeconfig.cache
+C:\code\MusicGroupProject\MusicGroupProject\obj\Debug\net8.0\ref\MusicGroupProject.dll
